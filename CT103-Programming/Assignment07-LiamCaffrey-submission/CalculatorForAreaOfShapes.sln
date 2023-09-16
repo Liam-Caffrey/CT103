@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CalculatorForAreaOfShapes", "CalculatorForAreaOfShapes\CalculatorForAreaOfShapes.vcxproj", "{87539AE3-F5EE-4A8D-A831-D2CF58E39E4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87539AE3-F5EE-4A8D-A831-D2CF58E39E4F}.Debug|x64.ActiveCfg = Debug|x64
+		{87539AE3-F5EE-4A8D-A831-D2CF58E39E4F}.Debug|x64.Build.0 = Debug|x64
+		{87539AE3-F5EE-4A8D-A831-D2CF58E39E4F}.Debug|x86.ActiveCfg = Debug|Win32
+		{87539AE3-F5EE-4A8D-A831-D2CF58E39E4F}.Debug|x86.Build.0 = Debug|Win32
+		{87539AE3-F5EE-4A8D-A831-D2CF58E39E4F}.Release|x64.ActiveCfg = Release|x64
+		{87539AE3-F5EE-4A8D-A831-D2CF58E39E4F}.Release|x64.Build.0 = Release|x64
+		{87539AE3-F5EE-4A8D-A831-D2CF58E39E4F}.Release|x86.ActiveCfg = Release|Win32
+		{87539AE3-F5EE-4A8D-A831-D2CF58E39E4F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0447BF4A-D0C7-4460-A19A-F73679C4C019}
+	EndGlobalSection
+EndGlobal

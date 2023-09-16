@@ -1,0 +1,5 @@
+﻿  week9session.c
+C:\Users\User\Desktop\Projects For coding classes\ct103\CT103 Week 9 Lab Session\CT103 Week 9 Lab Session\week9session.c(14,26): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\User\Desktop\Projects For coding classes\ct103\CT103 Week 9 Lab Session\CT103 Week 9 Lab Session\week9session.c(15,28): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\User\Desktop\Projects For coding classes\ct103\CT103 Week 9 Lab Session\CT103 Week 9 Lab Session\week9session.c(54,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  CT103 Week 9 Lab Session.vcxproj -> C:\Users\User\Desktop\Projects For coding classes\ct103\CT103 Week 9 Lab Session\Debug\CT103 Week 9 Lab Session.exe

@@ -1,0 +1,3 @@
+﻿  AreaOfShapes.c
+C:\Users\User\Desktop\Projects For coding classes\ct103\CalculatorForAreaOfShapes\CalculatorForAreaOfShapes\AreaOfShapes.c(26,13): warning C4013: 'strcmp' undefined; assuming extern returning int
+  CalculatorForAreaOfShapes.vcxproj -> C:\Users\User\Desktop\Projects For coding classes\ct103\CalculatorForAreaOfShapes\Debug\CalculatorForAreaOfShapes.exe
